@@ -18,15 +18,5 @@
         "from":"BER",
         "to":"BCN",
         "rate":"70"
-    },
-    {
-        "from":"BCN",
-        "to":"PLM",
-        "rate":"24"
-    },
-    {
-        "from":"PLM",
-        "to":"BCN",
-        "rate":"15"
     }
 ]
