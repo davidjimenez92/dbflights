@@ -1,0 +1,32 @@
+[
+    {
+        "from":"MAD",
+        "to":"BCN",
+        "rate":"50"
+    },
+    {
+        "from":"BCN",
+        "to":"MAD",
+        "rate":"48"
+    },
+    {
+        "from":"BCN",
+        "to":"BER",
+        "rate":"65"
+    },
+    {
+        "from":"BER",
+        "to":"BCN",
+        "rate":"70"
+    },
+    {
+        "from":"BCN",
+        "to":"PLM",
+        "rate":"24"
+    },
+    {
+        "from":"PLM",
+        "to":"BCN",
+        "rate":"15"
+    }
+]
